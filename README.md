@@ -36,4 +36,4 @@ Third step:
 8. Ground (-) on breadboard to GND pin on MakerUNO
 
 Fourth step :
-Upload code from folder src
+Upload code from piano_project.ino file
